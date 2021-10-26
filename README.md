@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devwxyz
 - 👀 I’m interested in sound computing and audio software, data languages, etc.
-- 🌱 I’m currently learning technical writing, webaudioAPI, Python, etc.
-- 💞️ I’m looking to collaborate on technical writing projects for open-source software
+- 🌱 I’m currently learning webaudioAPI, Python, Processing, etc.
+- 💞️ I’m looking to collaborate on projects using Python for media applications or social justice applications
 - 📫 How to reach me ...
 
 <!---
